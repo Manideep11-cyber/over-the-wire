@@ -60,7 +60,7 @@ As shown below :- you will get the password.
 
 
 
-## Password is :- ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If.
+ Password is :- ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 ## Note the password in notepad or notes with level0 - ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
