@@ -65,5 +65,4 @@ As shown below :- you will get the password.
 ## Note the password in notepad or notes with level0 - ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 
-## 🚀 Key Learnings:- How to login to bandit0 using ssh.
-                      Using basic commands.
+## 🚀 Key Learnings:- How to login to bandit0 using ssh and Using basic commands.
