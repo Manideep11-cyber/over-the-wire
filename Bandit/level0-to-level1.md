@@ -21,7 +21,7 @@ This is the very first step: learn to use SSH and read files on a remote Linux s
 
 ---
 
-💻 Commands Used:- ls,cat.
+## 💻 Commands Used:- ls,cat.
 
 
 ## 🔗 Connect via SSH
@@ -65,6 +65,5 @@ As shown below :- you will get the password.
 ## Note the password in notepad or notes with level0 - ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 
-- 🚀 Key Learnings:-
-  How to login to bandit0 using ssh.
-  Using basic commands.
+## 🚀 Key Learnings:- How to login to bandit0 using ssh.
+                      Using basic commands.
