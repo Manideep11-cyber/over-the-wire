@@ -27,7 +27,7 @@ This is the very first step: learn to use SSH and read files on a remote Linux s
 ## 🔗 Connect via SSH
 Open your terminal and run:
 
-'''bash
+`bash`
 ssh bandit0@bandit.labs.overthewire.org -p 2220 
 and press enter.
 As shown below:-
@@ -40,6 +40,9 @@ As shown below:-
 
 Enter the **password** : `bandit0`
 
+---
+---
+
 use 'ls' command to know the files in folder or directory.
 **command** = ls
 As shown below :- You will get a file called readme.
@@ -48,7 +51,8 @@ As shown below :- You will get a file called readme.
 
 <img width="262" height="37" alt="image" src="https://github.com/user-attachments/assets/73a4ad90-997e-4078-8a96-21b7c8eaed5d" />
 
-
+---
+---
 
 Use 'cat' command to `concatenate files and print on the standard output.`
 **command** = cat readme
@@ -61,6 +65,9 @@ As shown below :- you will get the password.
 
 
  Password is :- ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+---
+---
 
 ## Note the password in notepad or notes with level0 - ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
